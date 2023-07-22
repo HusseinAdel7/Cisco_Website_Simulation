@@ -1,0 +1,952 @@
+body
+{
+    margin: 0px;
+
+}
+.d1
+{
+    margin: 30px 60px; 
+}
+.d2,.d3,.d4,.p1,.p2,.d5,.d6, .d7,.d8,.d9
+{
+    display: inline  ;
+}
+.d3
+{
+    position: relative;
+    margin: 0px;
+    top:-24px
+}
+.s1
+{
+    position: relative;
+    left: 82px
+}
+.c1
+{
+    text-decoration: none;
+    color: #0396C6;
+    font-weight:bold
+}
+
+.d4,.d5,.d6,.d7,.d8,.d9
+{
+    position: relative;
+    margin: 0px;
+    top:-30px;
+    left: 180px;
+    
+}
+.d5
+{
+    left: 195px
+}
+.d6
+{
+    
+    left: 210px
+}
+.d7
+{
+    left: 650px
+}
+.d8
+{
+    left: 40px;
+    top: 0px
+}
+.d9
+{
+    left: 50px;
+    top: 0px
+}
+
+.s2,.s3, .s4,.s5,.s6
+{
+    border-color: #FFFFFF;
+    height: 20px;
+    width: 18px;
+    font-weight: bold
+}
+.p1,.p2, .p3,.p4,.p5
+{
+    text-decoration: none;
+    color: #474545;
+    font-size: 17px;
+    font-family:Arial
+}
+.p1:hover,.p2:hover, .p3:hover,.p4:hover,.p5:hover,.w1:hover,.w2:hover,.w3:hover,.w4:hover,.w5:hover,.w6:hover,.w7:hover,.into:hover,.linux:hover,.cyb:hover
+{
+    
+    color: #0396C6;
+    font-weight: bold;
+}
+.dwrite
+{
+    position: relative;
+    background: #005073;
+    width: 790px;
+    height: 500px;
+    left: -710px;
+    color: white;
+}
+.h
+{
+    padding: 60px 0 60px 60px;
+    font-size: 40px;
+    font-family: Arial 
+}
+.pp,.pp2,.ppp
+{
+  position: relative;
+  left: 60px;
+  top:-40px;
+  font-size: 20px;
+  font-family: Arial;
+ 
+}
+.ppp
+{
+    background: #fbab18;
+    position: relative;
+    border-radius: 30px;
+    height: 30px;
+    width: 310px;
+    left: 60px;
+    top: -20px;
+    color: rgb(57, 57, 59);
+    text-align: center;
+    padding-top: 9px;
+    font-weight: normal;
+    
+}
+.ppp:hover
+{
+    background: #212529;
+    color: white
+}
+.img4
+{
+    position: relative;
+    display: inline;
+    top:-432px;
+    left:780px;  
+}
+.ddw
+{
+    position: relative;
+    left: -650px;
+    top: 50px;
+    color: black;
+    font-size: 20px;
+    text-align: center;
+    font-family: Arial;
+    color: rgb(57, 57, 59);
+}
+.imgs
+{
+  position: relative;
+  top: 100px;
+  left: -430px;
+  word-spacing: 40px
+}
+.uimg
+{
+  position: relative;
+  top: 120px;
+  left: -410px;
+}
+.w1,.w2,.w3,.w4,.w5,.w6,.w7,.into,.linux,.cyb
+{
+  position: relative;
+ text-decoration: none;
+ font-size: 16px;
+ font-family: Arial;
+ color: rgb(71, 125, 153);
+}
+.w2
+{
+  left: 60px
+}
+.w3
+{
+  left: 130px
+}
+.w4
+{
+   left: 180px
+}
+.w5
+{
+   left: 510px;
+   top: -20px
+}
+.w6
+{
+   left: 620px;
+   top: -40px
+}
+.w7
+{
+   left: 660px;
+   top: -40px
+}
+.things
+{
+  position: relative;
+  left: 240px
+}
+.autom
+{
+  position: relative;
+  left: 50px
+}
+.icon
+{
+  position: relative;
+  top:80px;
+  left: -400px;
+}
+.i1
+{
+  position: relative;
+  top: -15px;
+  left: 79px
+}
+.i2
+{
+  position: relative;
+  top: -16px;
+  left: 174px
+}
+.i3
+{
+  position: relative;
+  top: -15px;
+  left: 326px
+}
+.i4
+{
+  position: relative;
+  top: 3px;
+  left: 400px
+}
+.i5
+{
+  position: relative;
+  top: 1px;
+  left: 555px
+}
+.i6
+{
+  position: relative;
+  top: 1px;
+  left: 634px
+}
+.i7
+{
+  position: relative;
+  top: 1px;
+  left: 763px
+}
+.watch
+{
+ position: relative;
+ font-size: 20px;
+ text-align:  center;
+ height: 30px;
+ top:140px;
+ width: 180px;
+ left: -40px;
+ border-radius: 30px;
+ color: #212529;
+background: #6abf4b;
+padding-top: 4px 
+}
+.watch:hover
+{
+background: #9DF276;
+}
+.unwatch
+{
+ position: relative;
+ left: -720px;
+ right: 0px;
+ width: 1554px;
+ top: 200px;
+ height: 100px;
+ background: #00bceb;
+}
+.explo
+{
+ position: relative;
+ padding: 40px 300px 40px ;
+ font-size: 18px;
+ font-family: Arial;
+ color: white;
+}
+.start
+{
+ position:relative ;
+ top : -83px;
+ left:943px;
+ color: white;
+ font-size: 19px;
+ font-family: Arial;
+ border-radius: 30px;
+ border-color: white;
+ border: 2px solid ;
+ width: 150px;
+ height: 25px;
+ text-align: center
+ 
+}
+.sta
+{
+ text-decoration: none;
+ color: white
+}
+.start:hover
+{
+ background: white;
+ font-weight: bold;
+ font-size: 20px
+}
+.sta:hover
+{
+  color: #474545;
+   background: white;
+   font-weight: bold;
+    font-size: 20px
+}
+.ununwatch
+{
+ position: relative;
+ left: -720px;
+ right: 0px;
+ width: 1554px;
+ top: 182px;
+ height: 120px;
+ background: #005073;
+}
+.eq
+{
+ position: relative;
+ padding: 40px 300px 40px ;
+ font-size: 18px;
+ font-family: Arial;
+ color: white;
+ left: 100px
+}
+.enrol
+{
+ position:relative ;
+ top : -83px;
+ left:943px;
+ color: white;
+ font-size: 19px;
+ font-family: Arial;
+ border-radius: 30px;
+ border-color: white;
+ border: 2px solid ;
+ width: 130px;
+ height: 25px;
+ text-align: center
+ 
+}
+.enr
+{
+ text-decoration: none;
+ color: white
+}
+.enrol:hover
+{
+ background: white;
+ font-weight: bold;
+  font-size: 20px
+
+}
+.enr:hover
+{
+  color: #474545;
+   background: white;
+   font-weight: bold;
+    font-size: 20px
+}
+.hu
+{
+ position: relative;
+ top: 20px;
+ font-size: 40px;
+ font-family: Arial;
+ left: 750px;
+ color: #212529;
+}
+.hho
+{
+ position: relative;
+ top: 25px;
+ font-family: Arial;
+ font-size: 32px;
+ color: #212529;
+ left: 380px
+}
+.hhi
+{
+ position: relative;
+ top: -45px;
+ font-family: Arial;
+ font-size: 32px;
+ color: #212529;
+ left: 1080px
+}
+.online
+{
+ position: relative;
+ top: -80px;
+ font-family: Arial;
+ font-size: 14px;
+ color: #212529;
+ left: 380px
+}
+.inp
+{
+ position: relative;
+ top: -130px;
+ font-family: Arial;
+ font-size: 14px;
+ color: #212529;
+ left: 1080px
+}
+.ull
+{
+ position: relative;
+ top: -120px;
+ font-family: Arial;
+ font-size: 14px;
+ color: #212529;
+ left: 1040px
+}
+.corse
+{
+ position: relative;
+ left: 460px;
+ top:-195px;
+ font-size: 16px;
+ color: #212529;
+ font-family: Arial;
+}
+.it2,.sc2,.iot2
+{
+ position: relative;
+ left: 380px;
+ top:-155px
+}
+.linux,.cyb,.into
+{
+ position: relative;
+ left: 410px;
+ top:-185px
+}
+.img555,.img5555,.img55
+{
+ position: relative;
+ left: 420px;
+ top:-180px
+}
+.corses,.corsess
+{
+ position: relative;
+ left: 460px;
+ top:-193px;
+ font-size: 16px;
+ color: #212529;
+ font-family: Arial;
+}
+.divvv
+{
+ position: relative;
+ background: #f2f2f2;
+ top: 142px;
+ height: 700px;
+ width: 1835px;
+ left: -1000px
+}
+.find
+{
+ position: relative;
+ left: 1085px;
+ top:-380px;
+ font-size: 22px;
+ color: #212529;
+ font-family: Arial;
+}
+.loc
+{
+ position: relative;
+ top: -390px;
+ left: 1090px;
+ background: #f2f2f2
+}
+.loca
+{
+ position: relative;
+ top: -400px;
+ left: 1090px;
+ width:500px;
+ height:30px
+}
+.search
+{
+ position: relative;
+ top: -435px;
+ left: 1650px;
+ border-radius: 30px;
+ background-color: #025e80;
+ width: 100px;
+ height: 20px;
+ text-align: center;
+ padding: 10px;
+ font-size: 18px;
+ color: white;
+ text-decoration: none;
+ display: block
+}
+.search:hover
+{
+ text-decoration: none;
+ background: #017CAD;
+}
+.browse
+{
+ position: relative;
+ top: -300px;
+ left: 880px;
+ font-size: 18px;
+ text-decoration: none;
+ font-size: 17px;
+ font-family: Arial;
+ color: #212529;
+ border-radius: 50%;
+ background: #fbab18;
+ width: 240px;
+ height: 20px;
+ display: block;
+ padding: 15px 15px 15px 20px
+}
+.browse:hover
+{
+ color: white;
+ background: #58585b;
+}
+.cisco
+{
+ position: relative;
+ top: -270px;
+ left: 660px;
+  font-size: 40px;
+ font-family: Arial;
+ color: #212529
+}
+.vim
+{
+ position: relative;
+ left: -650px;
+ top:220px
+}
+.woim
+{
+ position: relative;
+ left: -600px;
+ top:220px
+}
+.maim
+{
+ position: relative;
+ left: -550px;
+ top:215px
+}
+.dimg1
+{
+
+ position: relative;
+ width: 388px;
+ background: #017CAD;
+ left: -649px;
+ top:100px;
+ height: 90px;
+ padding: 20px;
+ font-size: 17px;
+ font-family: Arial;
+ color: white
+}
+.linkim
+{
+ color: white;
+ position: relative;
+}
+.difim
+{
+ font-size: 30px;
+ color: white;
+ position: relative;
+ top:-60px;
+ left: 350px
+}
+.dimg2
+{
+ position: relative;
+ width: 393px;
+ background: #017CAD;
+ left: -167px;
+ top:-30px;
+ height: 90px;
+ padding: 20px;
+ font-size: 17px;
+ font-family: Arial;
+ color: white
+}
+.linkimm
+{
+ color: white;
+ position: relative;
+}
+.difimm
+{
+ font-size: 30px;
+ color: white;
+ position: relative;
+ top:-60px;
+ left: 350px
+}
+.dimg3
+{
+ position: relative;
+ width: 393px;
+ background: #017CAD;
+ left: 320px;
+ top:-160px;
+ height: 90px;
+ padding: 20px;
+ font-size: 17px;
+ font-family: Arial;
+ color: white
+}
+.linkimmm
+{
+ color: white;
+ position: relative;
+}
+.difimmm
+{
+ font-size: 30px;
+ color: white;
+ position: relative;
+ top:-60px;
+ left: 350px
+}
+.end
+{
+ position: relative;
+ background:#f2f2f2;
+ height:380px;
+ width:700px;
+ left:-710px;
+ margin:-130px;
+ padding: 2px 490px;
+ font-size:16px;
+ font-family: Arial;
+ color: #39393b;
+}
+.style
+{
+ font-size :14px;
+ width:1000px
+}
+.rel
+{
+  position: relative;
+ background:#c8c8c8;
+ height:290px;
+ width:1570px;
+ left:-860px;
+ margin: 130px;
+ top:20px
+}
+.educ
+{
+ position: relative;
+ top:-220px;
+ left:100px
+}
+
+.edu,.pro
+{
+ color: white;
+ text-decoration: none;
+}
+.edu
+{
+ font-family: Arial;
+ font-size: 32px;
+ font-weight: bold
+}
+.pro
+{
+ font-family: Arial;
+ font-size: 15px;
+}
+.go
+{
+ font-size: 17px;
+ font-family: Arial;
+ color: white
+}
+.iz
+{
+ top:-36px;
+ color: white;
+ font-size: 32px;
+ position: relative;
+ left: 350px
+}
+.oiu
+{
+ position: relative;
+ top:-700px;
+ left:50px
+}
+.cat
+{
+  font-family: Arial;
+ position: relative;
+ top:-960px;
+ left:550px;
+ font-size:32px;
+ font-weight:bold;
+ color:white;
+  text-decoration: none
+}
+.gram
+{
+ position: relative;
+ top:-960px;
+ left:550px;
+ font-size:20px;
+ color:white;
+ text-decoration: none
+}
+.ed
+{
+ position: relative;
+ top:-960px;
+ left:550px;
+ font-size:20px;
+ color:white
+}
+.if
+{
+ position: relative;
+ top:-1005px;
+ left:950px;
+ font-size:32px;
+ color:white
+ }
+.iprt
+{
+  top:-3107px;
+ position: relative;
+ font-size:32px;
+right:-1150px;
+font-weight:bold;
+ color:white;
+  text-decoration: none;
+  font-family: Arial;
+}
+.uy
+{
+ position: relative;
+ top:-3110px;
+ right:-1145px;
+ font-size:18px;
+ color:white;
+ text-decoration: none
+}
+.done
+{
+ position: relative;
+ top:-3098px;
+ right:-1145px;
+ font-size:18px;
+ font-family: Arial;
+ color:white;
+}
+.ity
+{
+ position: relative;
+ top:-3140px;
+ right:-1480px;
+ font-size:29px;
+ font-family: Arial;
+ color:white;
+
+}
+.endo
+{
+ 
+ position: relative;
+ background:#58585b;
+ height:320px;
+ width:1570px;
+ left:-860px;
+ margin: 130px;
+ top:-110px
+}
+.a
+{
+ font-family: Arial;
+ position: relative;
+ font-size:15px;
+ top:21px;
+ right:-63px;
+ color:white;
+ text-decoration:none
+}
+.b
+{
+ font-family: Arial;
+ position: relative;
+ font-size:15px;
+ top:49px;
+ right:-3px;
+ color:white;
+ text-decoration:none
+}
+.c
+{
+ font-family: Arial;
+ position: relative;
+ font-size:15px;
+ top:80px;
+ right:65px;
+ color:white;
+ text-decoration:none
+}
+.d
+{
+ font-family: Arial;
+ position: relative;
+ font-size:15px;
+ top:110px;
+ right:185px;
+ color:white;
+  text-decoration:none
+}
+.a:hover,.b:hover,.c:hover,.d:hover,.teach:hover,.hire:hover,.partn:hover
+{
+ text-decoration: underline
+}
+.teach
+{
+ font-family: Arial;
+  position: relative;
+ font-size:15px;
+ top:21px;
+ right:-120px;
+ color:white;
+ text-decoration:none
+}
+.hire
+{
+ font-family: Arial;
+ position: relative;
+ font-size:15px;
+ top:49px;
+ right:-25px;
+ color:white;
+ text-decoration: none;
+}
+.partn
+{
+ font-family: Arial;
+ position: relative;
+ font-size:15px;
+ top:80px;
+ right:57px;
+ color:white;
+ text-decoration:none
+}
+.lpl:hover
+{
+ color:  #337ab7
+}
+.nw,.mo,.on,.ro,.tl,.gl
+{
+ font-family: Arial;
+ font-size:14px;
+ position: relative;
+ left:58px;
+ top:113px;
+ color:white;
+ text-decoration:none;
+}
+.pp
+{
+ position: relative;
+ top:-525px;
+left:520px
+}
+.oo
+{
+ background-size:10px 10px;
+ width:25px;
+ height:25px
+}
+.zz
+{
+  position: relative;
+ top:-555px;
+left:550px
+}
+.rr
+{
+ background-size:10px 10px;
+ width:25px;
+ height:25px
+}
+.aa
+{
+ position: relative;
+ top:-583px;
+left:580px
+}
+.vv
+{
+  background-size:10px 10px;
+ width:25px;
+ height:25px
+}
+.qq
+{
+ position: relative;
+ top:-612px;
+left:612px
+}
+.ii
+{
+  background-size:10px 10px;
+ width:25px;
+ height:25px
+}
+.ee
+{
+ position: relative;
+ top:-640px;
+left:643px
+}
+.hh
+{
+  background-size:10px 10px;
+ width:25px;
+ height:25px
+}
